@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 
 ## Hello there 👋
 
-#### A Python developer
-
 ![Cerati](https://www.ultrabrit.com/wp-content/uploads/2021/08/Gustavo-Cerati-4.jpg)
 
-- ⚙️ I use daily: `.py`
-- 🌍 Currently learning **Python**
-- 🎸 Cerati fan
+## - ⚙️ I use daily: `.py`
+## - 🌍 Currently learning **Python**
+## - 🎸 Cerati fan
