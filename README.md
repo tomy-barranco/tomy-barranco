@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello there 👋
+
+#### A Python developer
+
+![Cerati]([/images/picture.jpg](https://www.ultrabrit.com/wp-content/uploads/2021/08/Gustavo-Cerati-4.jpg))
+
+- ⚙️ I use daily: `.py`
+- 🌍 Currently learning **Python**
+- 🎸 Cerati fan
